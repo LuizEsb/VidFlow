@@ -2,7 +2,7 @@
 
 # VidFlow
 
-O VidFlow é uma plataforma de compartilhamento de vídeos.
+O VidFlow é uma plataforma de compartilhamento de vídeos. Projeto desenvolvido durante meus estudos com foco na manipulação de pacotes com Node. Interface e design previamente fornecida pela disponibilizadora do curso.
 
 ![Captura de tela do Vidflow.](./vidflow.png)
 
@@ -42,7 +42,3 @@ json-server --watch backend/videos.json
 ```
 
 Em seguida, abra o `index.html` no navegador e o VidFlow já pode ser visualizado!
-
-## 📚 Mais informações do curso
-
-Este repositório avança até o uso do ESLint e Prettier, mas ainda não está utilizando o Vite junto com o Axios. Para usar o Vite, foi necessário a migração do código para um novo projeto, que você encontra [nesse repositório](https://github.com/alura-cursos/3519-nodejs-vidflow-vite).
