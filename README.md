@@ -6,6 +6,8 @@ O VidFlow é uma plataforma de compartilhamento de vídeos. Projeto desenvolvido
 
 ![Captura de tela do Vidflow.](./vidflow.png)
 
+## Confira a versão completa [aqui](https://vid-flow-beta.vercel.app/)
+
 ## 🔨 Funcionalidades do projeto
 
 Atualmente, o visual do projeto e sua funcionalidade de buscar em uma API pelas informações dos vídeos já estão prontos.
@@ -42,3 +44,9 @@ json-server --watch backend/videos.json
 ```
 
 Em seguida, abra o `index.html` no navegador e o VidFlow já pode ser visualizado!
+
+## Feito por:
+
+### LuizEsb
+
+### [Linkedin](https://www.linkedin.com/in/luiz-felipe-esboldrim-9942a0345/)
